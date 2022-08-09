@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.koubi {
+  border-radius: 18px;
+  background: rgb(18, 69, 236);
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  height: 0.3px;
+  margin-top: 1%;
+}
+
+.inputs {
+  border-radius: 18px;
+  background: #600;
+  padding: 20px;
+  width: 200px;
+  height: 0.5px;
+  margin: 1%;
+}
+.keno {
+  margin-top: 500%;
+}
+body {
+  background-color: grey;
+}
